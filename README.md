@@ -4,7 +4,7 @@
 
 ### SDE-2 • React.js & TypeScript • Frontend Architecture & Performance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-chourasiya)
+[![LinkedIn](https://www.linkedin.com/in/shivani1630)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://shivani-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanichourasiya53@gmail.com)
 
