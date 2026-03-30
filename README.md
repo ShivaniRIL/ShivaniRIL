@@ -1,26 +1,93 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shivani chourasiya</h1>
-<h3 align="center">Passionate MERN stack developer dedicated to crafting immersive web experiences through elegant code.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/55bf1c5bb8719075846b61ce1df1cf69528f02d1c23d6a32728a41f1479710c3/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d36333726696d683d33353826696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565">
+# Hey there, I'm Shivani Chourasiya! 👋✨
 
-- 🔭 I’m currently working as **Software Development Engineer (SDE) at Jio Platforms Limited**
+### SDE-2 • React.js & TypeScript • Frontend Architecture & Performance
 
-- 🌱 I’m currently learning **advanced techniques for frontend optimization, incorporating GraphQL into MERN projects, and exploring serverless architecture options for deploying MERN applications.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-chourasiya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://shivani-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanichourasiya53@gmail.com)
 
-- 👯 I’m looking to collaborate on **exciting projects that leverage the power of the MERN stack to create innovative web applications.**
+</div>
 
-- 🤝 I’m looking for help with **scalability of MERN stack applications, as well as staying updated with the latest industry best practices and technologies.**
+---
 
-- 💬 Ask me about **react,express,redux, material UI**
+## 👩‍💻 About Me
 
-- 📫 How to reach me **Shivi1614@gmail.com**
+- 🚀 **SDE-2 at Publicis Sapient** — building enterprise frontend solutions for global clients
+- 🚗 Delivered production-grade UI for **Stellantis** (global automotive giant)
+- 🤖 Built an **AI-powered chatbot** for **Saudia Airlines**
+- ⚡ Previously at **Jio Platforms** — scaled B2B platforms used by millions
+- 🎓 B.Tech ECE • **9.0 CGPA** • AWS Certified AI Practitioner
+- 💜 Frontend is my art — React, TypeScript & clean UI is my superpower
+- 🌍 Based in Mumbai • Open to Remote / PAN India opportunities
 
-- ⚡ Fun fact **I have a knack for finding bugs in other people's code faster than I can fix my own**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/shivani-chourasiya-39312a219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivani-chourasiya-39312a219](https://www.linkedin.com/in/shivani-chourasiya-39312a219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Frontend (My Forte 💪)**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 Highlights
+
+| 🎯 Achievement | 📌 Details |
+|---|---|
+| 🏅 Powerhouse of the Team | Awarded **twice** for exceptional performance at Jio |
+| 🌟 Award of Recognition | Recognized for Jio Platform 36 release |
+| ⚡ Performance Hero | Boosted Lighthouse scores by **~30%** via JS refactoring |
+| 🎬 Automation Win | Reduced onboarding effort by **25%** at Jio |
+| 🤖 AI Builder | Built chatbot platform for **Saudia Airlines** |
+| 🎙️ Talent Builder | Conducted **20+ interviews** during Jio hiring drives |
+
+---
+
+## 📌 Featured Project
+
+### 🏪 Retail Store Management System
+> Full-stack role-based platform for retail operations
+
+- 👥 Admin, Manager & Employee dashboards
+- 🔐 Secure JWT authentication
+- 📦 Inventory tracking & daily sales reporting
+- 🛠️ **Stack:** React.js • Node.js • PostgreSQL • Supabase • Express
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivaniRIL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f0f)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaniRIL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something amazing together!
+
+*"Frontend is where logic meets art — and I live in that intersection."* 💜
+
+</div>
