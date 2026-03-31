@@ -19,7 +19,7 @@
 - 🤖 Built an **AI-powered chatbot** for **Saudia Airlines**
 - ⚡ Previously at **Jio Platforms** — scaled B2B platforms used by millions
 - 🎓 B.Tech ECE • **9.0 CGPA** • AWS Certified AI Practitioner
-- 💜 Frontend is my art — React, TypeScript & clean UI is my superpower
+- 💜 Specialized in React architecture, performance optimization and scalable UI
 - 🌍 Based in Mumbai • Open to Remote / PAN India opportunities
 
 ---
